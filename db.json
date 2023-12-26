@@ -1,0 +1,98 @@
+{
+  "allvideos": [
+    {
+      "id": "19",
+      "caption": "Aquaman",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4a/Aquaman_and_the_Lost_Kingdom_poster.jpg",
+      "link": "https://www.youtube.com/embed/FV3bqvOHRQo"
+    },
+    {
+      "id": "23",
+      "caption": "Dunki",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Dunki_poster.jpg",
+      "link": "https://www.youtube.com/embed/-3PwNGnm7hI"
+    },
+    {
+      "id": "52",
+      "caption": "Salaar",
+      "url": "https://pbs.twimg.com/media/GAUmH4Ua4AACTMq?format=jpg&name=4096x4096",
+      "link": "https://www.youtube.com/embed/bUR_FKt7Iso"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Shylock",
+      "link": "https://www.youtube.com/embed/vOMV5tlslPs",
+      "timestamp": "12/20/2023, 04:21:49 PM",
+      "id": 1
+    },
+    {
+      "caption": "Aquaman",
+      "link": "https://www.youtube.com/embed/FV3bqvOHRQo",
+      "timestamp": "12/21/2023, 04:13:14 PM",
+      "id": 2
+    },
+    {
+      "caption": "Dunki",
+      "link": "https://www.youtube.com/embed/-3PwNGnm7hI",
+      "timestamp": "12/22/2023, 12:17:45 PM",
+      "id": 3
+    },
+    {
+      "caption": "Neru",
+      "link": "https://www.youtube.com/embed/abuLOH7xs8I",
+      "timestamp": "12/22/2023, 12:18:40 PM",
+      "id": 4
+    },
+    {
+      "caption": "Dunki",
+      "link": "https://www.youtube.com/embed/-3PwNGnm7hI",
+      "timestamp": "12/22/2023, 12:21:28 PM",
+      "id": 5
+    },
+    {
+      "caption": "Aquaman",
+      "link": "https://www.youtube.com/embed/FV3bqvOHRQo",
+      "timestamp": "12/22/2023, 12:21:44 PM",
+      "id": 6
+    },
+    {
+      "caption": "Dunki",
+      "link": "https://www.youtube.com/embed/-3PwNGnm7hI",
+      "timestamp": "12/22/2023, 04:18:51 PM",
+      "id": 7
+    },
+    {
+      "caption": "Neru",
+      "link": "https://www.youtube.com/embed/abuLOH7xs8I",
+      "timestamp": "12/22/2023, 04:33:05 PM",
+      "id": 8
+    },
+    {
+      "caption": "Neru",
+      "link": "https://www.youtube.com/embed/abuLOH7xs8I",
+      "timestamp": "12/22/2023, 05:06:32 PM",
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Drama",
+      "allVideos": [
+        {
+          "id": "36",
+          "caption": "Neru",
+          "url": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/neru-et00379301-1702460365.jpg",
+          "link": "https://www.youtube.com/embed/abuLOH7xs8I"
+        },
+        {
+          "id": "52",
+          "caption": "Salaar",
+          "url": "https://pbs.twimg.com/media/GAUmH4Ua4AACTMq?format=jpg&name=4096x4096",
+          "link": "https://www.youtube.com/embed/bUR_FKt7Iso"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
